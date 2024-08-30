@@ -30,7 +30,7 @@ CodeSnapz is a versatile, interactive code editor built with React and Next.js. 
 
 2. Navigate to the project directory:
    ```
-   cd codesnap
+   cd codesnapz
    ```
 
 3. Install the dependencies:
