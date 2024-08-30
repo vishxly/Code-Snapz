@@ -14,7 +14,7 @@ function Footer() {
         Twitter <ExternalLink />
       </Link>
       <p className="text-sm font-medium flex gap-2 items-center">
-        Made by Vyan
+        Built by Vyan
       </p>
       <Link
         className="text-sm font-medium flex gap-2 items-center   hover:text-slate-200 ease-in-out transition-all duration-150"
