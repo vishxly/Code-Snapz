@@ -1,6 +1,6 @@
-# CodeSnap: Interactive Code Editor
+# CodeSnapz: Interactive Code Editor
 
-CodeSnap is a versatile, interactive code editor built with React and Next.js. It offers a sleek interface for writing, styling, and sharing code snippets with ease.
+CodeSnapz is a versatile, interactive code editor built with React and Next.js. It offers a sleek interface for writing, styling, and sharing code snippets with ease.
 
 ![CodeSnap Screenshot](https://placeholder-for-screenshot.com)
 
@@ -25,7 +25,7 @@ CodeSnap is a versatile, interactive code editor built with React and Next.js. I
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/codesnap.git
+   git clone https://github.com/vishxly/code-snapz.git
    ```
 
 2. Navigate to the project directory:
