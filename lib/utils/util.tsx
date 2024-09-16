@@ -15,6 +15,31 @@ export const languages = [
     code: "/* Add your CSS styles here */",
   },
   {
+    name: "typescript",
+    icon: "icons/Typescript_logo_2020.svg.png",
+    code: "// Hello, World! in TypeScript\nconsole.log('Hello, World!');",
+  },
+  {
+    name: "React",
+    icon: "icons/react.png",
+    code: "<div> Hello React! </div>",
+  },
+  {
+    name: "NextJs",
+    icon: "icons/nextjs-icon.png",
+    code: "<div> Hello React! </div>",
+  },
+  {
+    name: "Angular",
+    icon: "icons/angular.png",
+    code: "Angular",
+  },
+  {
+    name: "VueJs",
+    icon: "icons/Vue.js.png",
+    code: "Vue.js",
+  },
+  {
     name: "java",
     icon: "icons/java.svg",
     code: "public class HelloWorld {\n  public static void main(String[] args) {\n    System.out.println('Hello, World!');\n  }\n}",
@@ -29,11 +54,7 @@ export const languages = [
     icon: "icons/c-sharp-c-icon-1822x2048-wuf3ijab.png",
     code: "using System;\n\nclass HelloWorld\n{\n    static void Main()\n    {\n        Console.WriteLine('Hello, World!');\n    }\n}",
   },
-  {
-    name: "typescript",
-    icon: "icons/Typescript_logo_2020.svg.png",
-    code: "// Hello, World! in TypeScript\nconsole.log('Hello, World!');",
-  },
+  
 ];
 
 export const themes = [
